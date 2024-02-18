@@ -18,10 +18,10 @@ public class ArrayiListTest {
 		al.add("Poonam");
 		al.add("Poonam");
 		al.add("Poonam");
-		al.add("Poonam");
-		al.add("Poonam");
-		al.add("Poonam");
-		al.add("Poonam");
+		al.add("Prabhjot");
+		al.add("Prabhjot");
+		al.add("Prabhjot");
+		al.add("Prabhjot");
 		//Size of the ArrayList object.
 		System.out.println(al.size());  
 		
